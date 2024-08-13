@@ -2,3 +2,4 @@
 
 <h2 align="center">Este jogo foi criado em JavaScript utilizando Phaser, um framework para a criação de jogos.</h2>
 <p align="center">Material Didático para a criação deste jogo: <a href="https://www.lessmilk.com/phaser-game-tutorial/">Make web games with Phaser 3</a></p>
+<h6 align="center">Projeto criado por: <a href="https://github.com/VerbalThree"> VerbalThree</a></h6>
